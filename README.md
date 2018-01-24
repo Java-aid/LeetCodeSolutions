@@ -1,11 +1,3 @@
-<p align="right">
-    <a href="https://www.facebook.com/kanhaiyag2/">
-        <img height=80 src="https://github.com/Java-aid/LeetCodeSolutions/blob/master/LeetCodeSolutions/src/main/resources/imgs/facebook.png">
-    </a>
-    <a href="https://www.linkedin.com/in/kanahaiya-gupta-a9894746/">
-        <img height=85 src="https://github.com/Java-aid/LeetCodeSolutions/blob/master/LeetCodeSolutions/src/main/resources/imgs/linkedin.png">
-    </a>
-</p>
 <p align="center">
     <a href="https://leetcode.com/kanhaiya/">
         <img height=85 src="https://github.com/Java-aid/LeetCodeSolutions/blob/master/LeetCodeSolutions/src/main/resources/imgs/leetcode.png">
