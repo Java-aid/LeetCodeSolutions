@@ -1,7 +1,7 @@
 /**
  * 
  */
-package com.javaaid.solutions.easy.arrays;
+package com.javaaid.solutions.easy.twopointers;
 
 import java.util.Arrays;
 import java.util.Scanner;

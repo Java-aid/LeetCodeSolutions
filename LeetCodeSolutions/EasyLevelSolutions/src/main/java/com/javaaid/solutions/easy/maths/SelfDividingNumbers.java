@@ -1,7 +1,7 @@
 /**
  * 
  */
-package com.javaaid.solutions.easy.arrays;
+package com.javaaid.solutions.easy.maths;
 
 import java.util.ArrayList;
 import java.util.List;
