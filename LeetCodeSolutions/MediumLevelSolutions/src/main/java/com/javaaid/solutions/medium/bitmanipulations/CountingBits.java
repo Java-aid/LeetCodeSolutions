@@ -1,7 +1,7 @@
 /**
  * 
  */
-package com.javaaid.solutions.easy.bitmanipulations;
+package com.javaaid.solutions.medium.bitmanipulations;
 
 /**
  * @author Kanahaiya Gupta
