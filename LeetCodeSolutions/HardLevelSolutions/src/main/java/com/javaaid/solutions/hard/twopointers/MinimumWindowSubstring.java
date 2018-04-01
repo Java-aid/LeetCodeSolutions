@@ -1,7 +1,7 @@
 /**
  * 
  */
-package com.javaaid.solutions.hard.twopointer;
+package com.javaaid.solutions.hard.twopointers;
 
 import java.util.HashMap;
 
